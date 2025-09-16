@@ -16,6 +16,6 @@ Projeto open-source para criar, editar e exportar esquemas de banco de dados de 
 
 ## Tecnologias
 
-- **Frontend:** React + TypeScript, `@xyflow/react` (fluxo/visualização de grafos), Vite, Tailwind (opcional).  
+- **Frontend:** React + TypeScript, `@xyflow/react` (fluxo/visualização de grafos), Vite, Tailwind.  
 - **Backend:** PHP (puro), PostgreSQL, Nginx, Docker.  
 - **Ferramentas dev:** Docker, Docker Compose, Git, DBeaver, Redis.
